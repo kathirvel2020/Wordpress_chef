@@ -13,7 +13,8 @@
  *
  * @package WordPress
  */
-
+define ('WP_HOME','http://wordpress-1801507371.us-east-1.elb.amazonaws.com');
+define ('WP_SITEURL','http://wordpress-1801507371.us-east-1.elb.amazonaws.com');
 
 //**define('WP_REDIS_HOST','wordpress.9gmwit.0001.use1.cache.amazonaws.com');
  //* MySQL settings - You can get this info from your web host ** //
